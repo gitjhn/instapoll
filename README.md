@@ -1,3 +1,14 @@
+This is a fork for my bad coding tests.
+
+For the love of god -  DO NOT USE THIS FORK!  -  use the original at:
+
+https://github.com/jhixson/instapoll
+
+Any of this code worth contributing will be cleaned up and sent to the original repo.
+
+========================================================================
+
+
 # instapoll
 [Check it out on heroku!](http://instapoll.herokuapp.com)
 
